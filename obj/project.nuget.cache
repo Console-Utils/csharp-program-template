@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dlnBS2cvynjCOUuIgBZOtJi8iSHtRbVPtRs3Qp7x1ELVYv4xqqC1jle1IjNG8k8J0jwt7QdRnszke6D/qib6QA==",
+  "success": true,
+  "projectFilePath": "/home/runner/csharp-program-template/main.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
