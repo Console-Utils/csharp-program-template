@@ -8,7 +8,7 @@
     # Shells
     pkgs.fish
     pkgs.elvish
-    pkgs.bash
+    pkgs.bash_5
 
     # Unix tools
     pkgs.tldr
