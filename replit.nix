@@ -2,9 +2,16 @@
 
 { pkgs }: {
 	deps = [
+    # SDK
 		pkgs.dotnet-sdk_5
-    pkgs.tldr
+
+    # Shells
     pkgs.fish
+    pkgs.elvish
+    pkgs.bash
+
+    # Unix tools
+    pkgs.tldr
     pkgs.tree
 	];
 }
