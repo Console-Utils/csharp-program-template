@@ -15,3 +15,8 @@ Template for faster writing C# programs in Repl.it.
     - `abbr -a -U -- pf printf`
     - `abbr -a -U -- f for`
     - `abbr -a -U -- w 'while test'`
+  - `Bash`:
+    - `alias e='echo'`
+    - `alias pf='printf'`
+    - `alias f='for'`
+    - `alias w='while test'`
