@@ -1,4 +1,4 @@
-run = "dotnet run --project Program.Tests/Program.csproj"
+run = "dotnet test && dotnet run --project Program/Program.csproj"
 entrypoint = "main.cs"
 
 [env]
