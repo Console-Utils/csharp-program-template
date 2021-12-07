@@ -13,5 +13,6 @@
     # Unix tools
     pkgs.tldr
     pkgs.tree
+    pkgs.bc
 	];
 }
