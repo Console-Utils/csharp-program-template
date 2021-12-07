@@ -25,8 +25,8 @@ Template for faster writing C# programs in Repl.it.
   - `Fish`:
     - `abbr -a -U -- e echo`
     - `abbr -a -U -- pf printf`
-    - `abbr -a -U -- f for`
     - `abbr -a -U -- i 'if test'`
     - `abbr -a -U -- w 'while test'`
+    - `abbr -a -U -- f for`
   - `Bash`:
     - Bash aliases will be added as soon as .bashrc config and others the same in the $HOME directory are not cleared at every page reload.
