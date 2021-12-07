@@ -14,3 +14,5 @@
 /home/runner/csharp-program-template/Program/obj/Debug/net5.0/ref/Program.dll
 /home/runner/csharp-program-template/Program/obj/Debug/net5.0/Program.pdb
 /home/runner/csharp-program-template/Program/obj/Debug/net5.0/Program.genruntimeconfig.cache
+/home/runner/csharp-program-template/Program/bin/Debug/net5.0/CommandLine.dll
+/home/runner/csharp-program-template/Program/obj/Debug/net5.0/Program.csproj.CopyComplete
