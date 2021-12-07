@@ -2,17 +2,17 @@ using NUnit.Framework;
 
 namespace Program.Tests
 {
-    public class Tests
+  public class Tests
+  {
+    [SetUp]
+    public void Setup()
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
-        [Test]
-        public void SampleTest()
-        {
-            Assert.Pass();
-        }
     }
+
+    [Test]
+    public void SampleTest()
+    {
+      Assert.AreEqual(2 + 2, 4);
+    }
+  }
 }
