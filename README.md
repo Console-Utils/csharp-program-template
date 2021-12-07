@@ -31,7 +31,6 @@ Template for faster writing C# programs in Repl.it.
   - `Elvish`:
     - `edit:small-word-abbr['e'] = 'echo'`
     - `edit:small-word-abbr['pf'] = 'printf'`
-
     - `edit:small-word-abbr['i'] = 'if'`
     - `edit:small-word-abbr['w'] = 'while'`
     - `edit:small-word-abbr['f'] = 'for'`
