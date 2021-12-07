@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bSw6GckXckwBCWhbW0xjhXvvqkIROp/9KILz92wbyHH0LHRDh/JGP1nqNGZl146kKGD9T8RJ0++TDQr858dTGg==",
+  "dgSpecHash": "5jjOrz/D7rkoJ7cxHMZZYaONheursLkt11d1ZLb02wXV1wgBfUv+ZIMtgwK9mXmpo6Gn+NqOjdDUcqNJGgZPyg==",
   "success": true,
   "projectFilePath": "/home/runner/csharp-program-template/Program.Tests/Program.Tests.csproj",
   "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512",
     "/home/runner/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/home/runner/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/runner/.nuget/packages/microsoft.dotnet.internalabstractions/1.0.0/microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",

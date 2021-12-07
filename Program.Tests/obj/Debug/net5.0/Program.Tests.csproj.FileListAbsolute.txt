@@ -97,3 +97,10 @@
 /home/runner/csharp-program-template/Program.Tests/obj/Debug/net5.0/ref/Program.Tests.dll
 /home/runner/csharp-program-template/Program.Tests/obj/Debug/net5.0/Program.Tests.pdb
 /home/runner/csharp-program-template/Program.Tests/obj/Debug/net5.0/Program.Tests.genruntimeconfig.cache
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program.deps.json
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program.runtimeconfig.json
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program.runtimeconfig.dev.json
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/CommandLine.dll
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program.dll
+/home/runner/csharp-program-template/Program.Tests/bin/Debug/net5.0/Program.pdb
