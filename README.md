@@ -7,7 +7,13 @@ Template for faster writing C# programs in Repl.it.
 ## Notes
 
 - .NET version: 5
-- .NET packages: [CommandLineParser](https://www.nuget.org/packages/CommandLineParser/)
+- .NET packages:
+  - `Program`:
+    - [CommandLineParser](https://www.nuget.org/packages/CommandLineParser/)
+  - `Program.Tests`:
+    - [NUnit](https://www.nuget.org/packages/NUnit/)
+    - [NUnit3TestAdapter](https://www.nuget.org/packages/NUnit3TestAdapter/)
+    - [Microsoft.NET.Test.Sdk](https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/17.1.0-preview-20211130-02)
 - Nix packages:
   - [fish](https://search.nixos.org/packages?channel=21.05&show=fish&from=0&size=50&sort=relevance&type=packages&query=fish)
   - [elvish](https://search.nixos.org/packages?channel=21.05&show=elvish&from=0&size=50&sort=relevance&type=packages&query=elvish)
