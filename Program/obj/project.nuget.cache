@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "fhhOcHJGl0g3zW+gHWmpyZZ/smcBrAKmh2AgTZd2ipTK5B8yFtOUOBEdRibtH50OPpOY6zGLnMZ1CjrclI2uwg==",
+  "dgSpecHash": "Sam2Ho+dM+euKamBtXNOvWVkUNQupmngos0WZ6dc7hPtUXWc2zDKv0E5h1hdPGhmpoHAs8q9qNd95rzGkEdadA==",
   "success": true,
   "projectFilePath": "/home/runner/csharp-program-template/Program/Program.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512"
+  ],
   "logs": []
 }
