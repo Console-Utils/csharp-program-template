@@ -28,8 +28,4 @@ Template for faster writing C# programs in Repl.it.
     - `abbr -a -U -- i 'if test'`
     - `abbr -a -U -- w 'while test'`
   - `Bash`:
-    - `alias e='echo'`
-    - `alias pf='printf'`
-    - `alias f='for'`
-    - `alias i='if test'`
-    - `alias w='while test'`
+    - Bash aliases will be added as soon as .bashrc config and others the same in the $HOME directory are not cleared at every page reload.
