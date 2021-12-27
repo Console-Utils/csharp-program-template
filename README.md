@@ -22,14 +22,8 @@ Template for faster writing C# programs in Repl.it.
   - [`tree`](https://search.nixos.org/packages?channel=21.05&show=tree&from=0&size=50&sort=relevance&type=packages&query=tree)
   - [`bc`](https://search.nixos.org/packages?channel=21.11&show=bc&from=0&size=50&sort=relevance&type=packages&query=bc)
 - Fisher packages:
-  - [`fishtape`](https://github.com/jorgebucaran/fishtape)
+  - [`fishabbreviations`](https://github.com/Console-Utils/fishabbreviations)
 - Shell aliases:
-  - `Fish`:
-    - `abbr -a -U -- e echo`
-    - `abbr -a -U -- pf printf`
-    - `abbr -a -U -- i 'if test'`
-    - `abbr -a -U -- w 'while test'`
-    - `abbr -a -U -- f for`
   - `Elvish`:
     - `edit:small-word-abbr['e'] = 'echo'`
     - `edit:small-word-abbr['pf'] = 'printf'`
